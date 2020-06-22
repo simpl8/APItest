@@ -1,0 +1,5 @@
+# 新建资讯，获取类型
+newsinfo_getType:
+-
+  method: 'post'
+  url: "http://172.190.105.128:18082/newsinfo/getType"
